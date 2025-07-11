@@ -1,7 +1,7 @@
 ## Vitor Costa
 
-nome: Vitor Costa
-data de nascimento:31052005
+.nome: Vitor Costa
+.data de nascimento:31052005
 
 ## Nivel de escolaridade
 nivel superior em andamento
