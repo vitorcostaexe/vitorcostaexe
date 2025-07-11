@@ -1,9 +1,10 @@
 ## Vitor Costa
 
-"Nome: Vitor Costa  Data de nascimento:31/05/2005"
+- Nome: Vitor Costa
+- Data de nascimento:31/05/2005
 
 ## Nivel de escolaridade
-nivel superior em andamento
+- Nivel superior em andamento
 
 ## Cursos
 - Manuntenção de computadores
