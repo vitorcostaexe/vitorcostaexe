@@ -1,7 +1,18 @@
 ## Titulo
 
-#nome
+nome: Vitor Costa
+data de nascimento:31052005
 
+## Nivel de escolaridade
+nivel superior em andamento
+
+## Cursos
+- Manuntenção de computadores
+- Python intermediario
+## Programação
+- Python
+- MySQL
+- SQLite
 <!--
 **vitorcostaexe/vitorcostaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
